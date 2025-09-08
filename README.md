@@ -1,4 +1,4 @@
-# Lucas Square Problem Solver - Actor Model Implementation
+# Sums of Consecutive Squares
 
 ## Project Overview
 

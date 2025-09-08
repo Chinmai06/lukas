@@ -1,4 +1,4 @@
-// src/actors.gleam - With REAL timing measurement
+// src/actors.gleam 
 import gleam/erlang/process
 import gleam/float
 import gleam/int

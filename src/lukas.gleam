@@ -1,4 +1,4 @@
-// src/lukas.gleam - Proper CLI version
+// src/lukas.gleam
 import actors
 import argv
 import gleam/float
